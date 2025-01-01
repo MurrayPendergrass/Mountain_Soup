@@ -1,0 +1,20 @@
+** Enchantments Bouldering:1
+Aasgard Sentinel:5
+Argonaut Peak:7
+Cashmere Mountain:3
+Colchuck Balanced Rock:29
+Colchuck Peak:11
+Crystal Lake Tower:3
+Dragontail Peak:27
+Flagpole, The:3
+Headlight Basin:3
+Ingalls Peak:13
+Jabberwocky Tower:7
+Mt Stuart:29
+Nightmare Needles:5
+Prusik Peak:17
+Rat Creek Spires:7
+Sherpa Peak:5
+Stuart Lake Basin:5
+Viviane Campsite:3
+Witches Tower:3
