@@ -5,7 +5,7 @@ This is a program to help monitor changes on the website Mountain Project. Mount
 Mountain_Soup uses the Python package Beautiful Soup to scrape data off of MountainProject.com. It creates a text file for a particular geographic area and records the number of rock climbing routes in this location. The next day, the program runs again and compares the quantities. If the integer value of routes is greater, an automated email is triggered to users of the program notifying them of a new route. 
 
 # Next Steps
-Next steps to improve the Mountain_Soup project would be to containerize it, host it on AWS, and creating an interface where the general public could sign up to receive the automated email, and make selections regarding what changes they would like to be notified about.
+Next steps to improve the Mountain_Soup project would be to containerize it, host it on AWS, and create an interface where the general public could sign up to receive the automated email, and make selections regarding what changes they would like to be notified about.
 
 
 
